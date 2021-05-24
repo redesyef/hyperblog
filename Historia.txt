@@ -5,3 +5,5 @@ y empezó a aprender dearrollo web.
 
 Hoy hablaremos de su historia.
 Empezaré a hacer el primer cambio de commit
+
+Entró equipo ubuntu
